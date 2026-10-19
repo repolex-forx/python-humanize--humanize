@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/python-humanize/humanize/commit/785e5dcc0d0308ad0dff3f6cc0faa7085ad0375b",
       "git:hexsha": "785e5dcc0d0308ad0dff3f6cc0faa7085ad0375b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/python-humanize/humanize/commit/89019ff9d76827991aca3e59966c5a3b84f98a9a",
